@@ -2,7 +2,7 @@
 Simple fake moon injector using VIP library.
 
 <p align="center">
-  <img src="https://github.com/yemsnucleus/FakeMoonInjector/blob/main/figures/sample.png?raw=true" alt="Image" width="500">
+  <img src="https://github.com/yemsnucleus/FakeMoonInjector/blob/main/figures/sample.png?raw=true" alt="Image" width="1000">
 </p>
 
 ### Requirements 
